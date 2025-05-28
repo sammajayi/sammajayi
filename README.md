@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-### I am Samuel Ajayi, a frontend Developer a and technical writer who is geared towards solving problems using technologies.
+### I am Samuel Ajayi, on a journey to become a World Class engineer
 
 
 
-- 🌱 I’m currently learning how to build software solutions because I am interested in building a solution that helps improve payment infrastructure across board 
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with building open source project
+- 🌱 I’m currently learning how to build software solutions.
+- 👯 I’m looking to contribute to open-source projects.
+- 👉 I'm looking for an internship/entry-level role.
+- Checkout [Byro (https://www.byro.africa)]
+
 
 
 ## 🌐 Socials:
