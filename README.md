@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-### I am Samuel Ajayi, on a journey to become a World Class engineer
+### I am Samuel Ajayi, on a journey to become a world-class engineer
 
 
 
 - 🌱 I’m currently learning how to build software solutions.
 - 👯 I’m looking to contribute to open-source projects.
 - 👉 I'm looking for an internship/entry-level role.
-- Checkout [[Byro] (https://www.byro.africa)]
+- Checkout Byro [(https://www.byro.africa)]
 
 
 
