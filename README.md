@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am Samuel Ajayi, on a journey to become a world-class engineer
+### I am Samuel Ajayi, on a journey to become a world-class Web3 developer
 
 
 
