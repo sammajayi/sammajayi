@@ -30,8 +30,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sammajayi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can support my journey to become a World Class Engineer:
+  ## 💰 You can support my journey to become a World world-class engineer:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sammajayi) 
 
+
+  [![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/sammajayi)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
